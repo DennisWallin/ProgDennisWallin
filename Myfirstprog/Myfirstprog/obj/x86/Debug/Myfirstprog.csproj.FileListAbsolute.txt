@@ -1,0 +1,5 @@
+/Users/denniswallin/Projects/Myfirstprog/Myfirstprog/bin/Debug/Myfirstprog.exe
+/Users/denniswallin/Projects/Myfirstprog/Myfirstprog/bin/Debug/Myfirstprog.pdb
+/Users/denniswallin/Projects/Myfirstprog/Myfirstprog/obj/x86/Debug/Myfirstprog.csproj.CoreCompileInputs.cache
+/Users/denniswallin/Projects/Myfirstprog/Myfirstprog/obj/x86/Debug/Myfirstprog.exe
+/Users/denniswallin/Projects/Myfirstprog/Myfirstprog/obj/x86/Debug/Myfirstprog.pdb
