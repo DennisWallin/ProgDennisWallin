@@ -1,0 +1,5 @@
+/Users/denniswallin/Projects/Loop/Loop/obj/x86/Debug/Loop.csproj.CoreCompileInputs.cache
+/Users/denniswallin/Projects/Loop/Loop/bin/Debug/Loop.exe
+/Users/denniswallin/Projects/Loop/Loop/bin/Debug/Loop.pdb
+/Users/denniswallin/Projects/Loop/Loop/obj/x86/Debug/Loop.exe
+/Users/denniswallin/Projects/Loop/Loop/obj/x86/Debug/Loop.pdb

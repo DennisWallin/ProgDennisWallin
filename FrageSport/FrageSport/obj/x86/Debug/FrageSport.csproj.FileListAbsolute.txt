@@ -1,0 +1,5 @@
+/Users/denniswallin/Projects/FrageSport/FrageSport/obj/x86/Debug/FrageSport.csproj.CoreCompileInputs.cache
+/Users/denniswallin/Projects/FrageSport/FrageSport/bin/Debug/FrageSport.exe
+/Users/denniswallin/Projects/FrageSport/FrageSport/bin/Debug/FrageSport.pdb
+/Users/denniswallin/Projects/FrageSport/FrageSport/obj/x86/Debug/FrageSport.exe
+/Users/denniswallin/Projects/FrageSport/FrageSport/obj/x86/Debug/FrageSport.pdb

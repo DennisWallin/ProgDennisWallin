@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{113F3E21-F3AF-4ED3-A8D5-2A2393E1F667}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FrageSport/Program.cs">
+    <Files>
+      <File FileName="../Loop/Loop/Program.cs" Line="26" Column="13" />
+      <File FileName="FrageSport/Program.cs" Line="276" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FrageSport PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
